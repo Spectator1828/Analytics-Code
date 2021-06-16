@@ -20,8 +20,8 @@ VIEW_ID = '211324222' #spectator.co.uk
 #VIEW_ID = '228416300' #data.spectator.co.uk
 
 
-g = Github("1e941b45145bf86c165f90935165fa6e8fd48123")
-repo = g.get_user().get_repo("SpecProj")
+#g = Github("GITHUB KEY")
+#repo = g.get_user().get_repo("SpecProj")
 
 def initialize_analyticsreporting():
   """Initializes an Analytics Reporting API V4 service object.
