@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/simoncook/opt/anaconda3/envs/Spectator/bin/python
 # -*- coding: utf-8 -*-
 """
 Created on Wed May 19 10:26:04 2021
